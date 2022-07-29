@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C# and JavaScript**
 
-- 📝 I regularly write on [@dasshuii](@dasshuii)
+- 📝 I regularly write on my Instagram: [@dasshuii](@dasshuii)
 
 - 💬 Ask me about **C++**
 
