@@ -5,9 +5,7 @@
 
 - 📝 I regularly write on my Instagram: [@dasshuii](@dasshuii)
 
-- 💬 Ask me about **C++**
-
-- 📫 How to reach me **daniel.ramirzc22@gmail.com**
+- 💬 Ask me about anything you want to know about, I love talk to people :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
