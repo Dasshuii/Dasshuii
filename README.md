@@ -1,13 +1,13 @@
-<h1 align="center">Hi everyone, I'm Daniel</h1>
+<h1 align="center">Hey y'all, I'm Daniel</h1>
 <h3 align="center">I love learning things that I like. And always looking for a way to meet new things.</h3>
 
-- 🌱 I’m currently learning **C# and JavaScript**
+- I’m currently learning **C# and JavaScript**
 
-- 📝 I regularly write on my Instagram: [@dasshuii](@dasshuii)
+- If u wanna check my instagram where I regularly write: [@dasshuii](@dasshuii)
 
 - 💬 Ask me about anything you want to know about, I love talk to people :)
 
-- 😄 Pronouns: he/him 
+- My pronouns are he/him 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
