@@ -1,7 +1,7 @@
 <h1 align="center">Hey y'all, I'm Daniel</h1>
 <h3 align="center">I love learning things that I like. And always looking for a way to meet new things.</h3>
 
-- I’m currently learning **C# and JavaScript**
+- I’m currently learning **C# and Java**
 
 - If u wanna check my instagram where I regularly write: [@dasshuii](@dasshuii)
 
