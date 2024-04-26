@@ -3,8 +3,6 @@
 
 - I’m currently learning **C#**
 
-- If u wanna check my instagram where I regularly write: [@dasshuii](@dasshuii)
-
 - 💬 Ask me about anything you want to know about, I enjoy talking to people :)
 
 - My pronouns are he/him 
